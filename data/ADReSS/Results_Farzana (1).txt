@@ -1,0 +1,60 @@
+------------- ------------------- Task 1 -----------------------
+
+ for recall, precision and F_score, the first number (left) corresponds to the non-AD label 
+and the second number (right) corresponds to the AD label
+
+
+--> test_results-classif-1.txt 
+
+
+--> test_results-classif-2.txt 
+
+
+--> test_results-classif-3.txt 
+
+
+--> test_results-classif-4.txt 
+
+
+
+--> test_results-classif-5.txt 
+
+
+
+-----------------------------------------------------------------------
+
+
+----------------------------Task 2 ---------------------
+
+--> test_results-regression-1.txt
+
+
+RMSE =
+
+    4.3396
+--> test_results-regression-2.txt
+
+RMSE =
+
+    4.6128
+
+--> test_results-regression-3.txt
+RMSE =
+
+    6.4152
+
+
+--> test_results-regression-4.txt
+RMSE =
+
+    4.8719
+
+--> test_results-regression-5.txt
+
+
+RMSE =
+
+    4.6312
+
+
+

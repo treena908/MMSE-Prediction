@@ -1,0 +1,8 @@
+rmse 
+(6.303520841561484+0j)
+mae  
+  warnings.warn(PearsonRConstantInputWarning())
+5.484375
+pearson
+(nan, nan)
+r2 0.000000

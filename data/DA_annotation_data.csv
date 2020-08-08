@@ -1,0 +1,1617 @@
+﻿chat_file_name,utterance_id,speaker,DA_Label
+274-0,0,*INV,['Instruction']
+274-0,1,*PAR,['Answer: t4']
+274-0,2,*PAR,"['Answer: t5', 'Answer: t8']"
+274-0,3,*PAR,['Answer: t6']
+274-0,4,*PAR,['Answer: t6']
+274-0,5,*PAR,"['Answer: t6', 'Answer: t5']"
+274-0,6,*PAR,"['Answer: t6', 'Answer: t5']"
+274-0,7,*PAR,['Answer: t2']
+274-0,8,*PAR,['Answer: t1']
+274-0,9,*PAR,['Answer: t4']
+274-0,10,*PAR,['Answer: t2']
+274-0,11,*INV,['Question: General']
+274-0,12,*PAR,['Request: Clarification']
+274-0,13,*PAR,['Request: Clarification']
+274-0,14,*INV,['Answer: General']
+274-0,15,*PAR,['Answer: General']
+274-0,16,*PAR,['Answer: General']
+274-0,17,*INV,['Acknowledgment']
+280-1,0,*PAR,['Acknowledgment']
+280-1,1,*PAR,['Answer: t6']
+280-1,2,*PAR,"['Answer: t5', 'Answer: t8']"
+280-1,3,*PAR,['Answer: t2']
+280-1,4,*PAR,['Answer: t4']
+280-1,5,*PAR,['Answer: t1']
+280-1,6,*PAR,['Correction']
+280-1,7,*PAR,['Answer: General']
+280-1,8,*INV,['Acknowledgment']
+296-0,0,*INV,['Instruction']
+296-0,1,*PAR,"['Answer: t6', 'Answer: t5']"
+296-0,2,*PAR,['Answer: t8']
+296-0,3,*PAR,"['Answer: t2', 'Answer: t1']"
+296-0,4,*PAR,['Answer: t4']
+296-0,5,*PAR,['Answer: t3']
+296-0,6,*PAR,"['Answer: t6', 'Answer: t5']"
+296-0,7,*INV,['Acknowledgment']
+297-2,0,*PAR,"['Answer: t6', 'Answer: t5']"
+297-2,1,*PAR,"['Answer: t6', 'Answer: t8']"
+297-2,2,*PAR,['Answer: t2']
+297-2,3,*PAR,['Answer: t4']
+297-2,4,*PAR,['Answer: t1']
+297-2,5,*PAR,"['Answer: t5', 'Answer: t6']"
+297-2,6,*INV,['Acknowledgment']
+297-2,7,*PAR,['Answer: t1']
+297-2,8,*PAR,['Request: Clarification']
+297-2,9,*INV,['Answer: General']
+297-2,10,*INV,['Question: General']
+297-2,11,*PAR,['Answer: No']
+297-2,12,*PAR,['Question: General']
+297-2,13,*INV,['Answer: General']
+298-1,0,*INV,['Instruction']
+298-1,1,*INV,['Instruction']
+298-1,2,*PAR,['Acknowledgment']
+298-1,3,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+298-1,4,*PAR,['Answer: t6']
+298-1,5,*PAR,"['Answer: t2', 'Answer: t1']"
+298-1,6,*PAR,['Answer: t4']
+298-1,7,*PAR,['Answer: t3']
+298-1,8,*PAR,['Request: Clarification']
+298-1,9,*PAR,['Request: Clarification']
+298-1,10,*INV,['Answer: General']
+298-1,11,*PAR,['Acknowledgment']
+298-1,12,*PAR,['Answer: General']
+298-1,13,*INV,['Acknowledgment']
+298-1,14,*INV,['Farewell']
+299-1,0,*INV,['Instruction']
+299-1,1,*INV,['Instruction']
+299-1,2,*INV,['Instruction']
+299-1,3,*PAR,"['Answer: t6', 'Answer: t8']"
+299-1,4,*PAR,"['Answer: t2', 'Answer: t6', 'Answer: t4']"
+299-1,5,*PAR,['Answer: t1']
+299-1,6,*PAR,['Answer: General']
+299-1,7,*PAR,['Answer: t2']
+299-1,8,*PAR,['Request: Clarification']
+299-1,9,*INV,['Answer: Yes']
+299-1,10,*PAR,['Answer: General']
+299-1,11,*INV,['Acknowledgment']
+299-1,12,*PAR,['Answer: t6']
+299-1,13,*INV,['Acknowledgment']
+304-2,0,*INV,['Instruction']
+304-2,1,*INV,['Instruction']
+304-2,2,*INV,['Instruction']
+304-2,3,*PAR,['Answer: t4']
+304-2,4,*PAR,['Answer: t8']
+304-2,5,*PAR,"['Answer: t6', 'Answer: t5']"
+304-2,6,*PAR,"['Answer: t2', 'Answer: t6', 'Answer: t4']"
+304-2,7,*PAR,['Answer: t2']
+304-2,8,*PAR,['Answer: t4']
+304-2,9,*PAR,"['Answer: t5', 'Answer: t8']"
+304-2,10,*PAR,"['Answer: t6', 'Answer: t5']"
+304-2,11,*PAR,['Answer: General']
+304-2,12,*INV,['Acknowledgment']
+318-1,0,*INV,['Acknowledgment']
+318-1,1,*INV,['Instruction']
+318-1,2,*PAR,['Stalling']
+318-1,3,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+318-1,4,*PAR,"['Answer: t6', 'Answer: t5']"
+318-1,5,*PAR,['Answer: t6']
+318-1,6,*PAR,"['Answer: t2', 'Answer: t1', 'Answer: t4']"
+318-1,7,*PAR,['Answer: t1']
+318-1,8,*PAR,['Feedback: Reflexive']
+318-1,9,*INV,['Acknowledgment']
+322-1,0,*INV,['Instruction']
+322-1,1,*INV,['Instruction']
+322-1,2,*PAR,['Request: Clarification']
+322-1,3,*PAR,['Answer: t4']
+322-1,4,*PAR,['Answer: t2']
+322-1,5,*PAR,['Answer: t4']
+322-1,6,*PAR,['Answer: t6']
+322-1,7,*PAR,"['Answer: t5', 'Answer: t8']"
+322-1,8,*PAR,"['Answer: t6', 'Answer: t5']"
+322-1,9,*PAR,['Answer: t1']
+322-1,10,*PAR,['Answer: General']
+322-1,11,*INV,['Acknowledgment']
+323-0,0,*INV,['Instruction']
+323-0,1,*PAR,['Answer: t4']
+323-0,2,*PAR,['Answer: t2']
+323-0,3,*PAR,"['Answer: t6', 'Answer: t5']"
+323-0,4,*PAR,"['Answer: t5', 'Answer: t8']"
+323-0,5,*PAR,['Answer: t8']
+323-0,6,*PAR,"['Answer: t6', 'Answer: t8']"
+323-0,7,*PAR,['Answer: t1']
+323-0,8,*PAR,['Answer: t1']
+323-0,9,*PAR,['Answer: t1']
+323-0,10,*PAR,['Answer: t1']
+323-0,11,*PAR,['Answer: t1']
+323-0,12,*PAR,"['Answer: t2', 'Answer: t3']"
+323-0,13,*PAR,['Answer: t2']
+323-0,14,*PAR,['Answer: t2']
+323-0,15,*PAR,['Answer: t2']
+323-0,16,*PAR,['Answer: t2']
+323-0,17,*PAR,['Answer: t3']
+323-0,18,*PAR,['Answer: t4']
+323-0,19,*PAR,['Answer: t1']
+323-0,20,*PAR,['Answer: General']
+323-0,21,*PAR,"['Answer: t8', 'Answer: t4']"
+323-0,22,*PAR,['Answer: t3']
+323-0,23,*INV,['Acknowledgment']
+323-0,24,*PAR,['Question: General']
+332-0,0,*PAR,['Answer: t4']
+332-0,1,*PAR,"['Answer: t6', 'Answer: t5']"
+332-0,2,*PAR,['Answer: t8']
+332-0,3,*PAR,['Answer: t6']
+332-0,4,*PAR,['Answer: t2']
+332-0,5,*INV,['Question: General']
+332-0,6,*PAR,['Answer: No']
+336-1,0,*INV,['Instruction']
+336-1,1,*INV,['Instruction']
+336-1,2,*PAR,['Request: Clarification']
+336-1,3,*INV,['Answer: General']
+336-1,4,*PAR,['Other']
+336-1,5,*INV,['Instruction']
+336-1,6,*PAR,['Request: Clarification']
+336-1,7,*INV,['Answer: General']
+336-1,8,*PAR,['Acknowledgment']
+336-1,9,*PAR,"['Answer: t5', 'Answer: t6', 'Answer: t8']"
+336-1,10,*PAR,['Answer: t6']
+336-1,11,*PAR,"['Answer: t2', 'Answer: t4']"
+336-1,12,*PAR,['Answer: t1']
+336-1,13,*PAR,['Answer: t2']
+336-1,14,*PAR,['Answer: t6']
+336-1,15,*INV,['Acknowledgment']
+336-1,16,*PAR,['Answer: General']
+336-1,17,*INV,['Farewell']
+340-0,0,*PAR,['Acknowledgment']
+340-0,1,*PAR,['Answer: t4']
+340-0,2,*PAR,"['Answer: t2', 'Answer: t4']"
+340-0,3,*PAR,['Answer: t2']
+340-0,4,*PAR,['Answer: t2']
+340-0,5,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+340-0,6,*PAR,['Answer: t1']
+340-0,7,*PAR,['Answer: General']
+340-0,8,*PAR,"['Answer: t6', 'Answer: t5']"
+340-0,9,*PAR,['Stalling']
+340-0,10,*PAR,['Answer: t1']
+340-0,11,*PAR,"['Answer: t2', 'Answer: t3']"
+340-0,12,*PAR,['Answer: t2']
+340-0,13,*PAR,['Acknowledgment']
+340-0,14,*PAR,['Answer: t6']
+527-0,0,*PAR,"['Answer: t6', 'Answer: t5']"
+527-0,1,*PAR,['Answer: t6']
+527-0,2,*PAR,"['Answer: t5', 'Answer: t8']"
+527-0,3,*PAR,['Answer: t2']
+527-0,4,*PAR,"['Answer: t2', 'Answer: t3']"
+527-0,5,*PAR,['Answer: t4']
+527-0,6,*PAR,['Answer: t4']
+527-0,7,*PAR,['Answer: t2']
+527-0,8,*PAR,"['Answer: t6', 'Answer: t5']"
+527-0,9,*PAR,"['Answer: t5', 'Answer: t8']"
+527-0,10,*INV,['Acknowledgment']
+527-0,11,*PAR,['Answer: t4']
+527-0,12,*INV,['Acknowledgment']
+551-0,0,*INV,['Instruction']
+551-0,1,*INV,['Instruction']
+551-0,2,*PAR,"['Answer: t5', 'Answer: t8']"
+551-0,3,*PAR,['Answer: t2']
+551-0,4,*PAR,['Answer: t2']
+551-0,5,*PAR,['Feedback: Reflexive']
+551-0,6,*PAR,['Answer: t4']
+551-0,7,*INV,['Acknowledgment']
+551-0,8,*PAR,['Request: Clarification']
+551-0,9,*PAR,['Stalling']
+551-0,10,*PAR,['Answer: t3']
+551-0,11,*PAR,['Answer: t3']
+551-0,12,*PAR,['Answer: t2']
+551-0,13,*PAR,['Request: Clarification']
+551-0,14,*PAR,['Answer: General']
+551-0,15,*PAR,['Question: General']
+551-0,16,*INV,['Answer: No']
+551-0,17,*PAR,['Answer: t2']
+551-0,18,*INV,['Instruction']
+551-0,19,*PAR,['Stalling']
+551-0,20,*INV,['Instruction']
+551-0,21,*PAR,['Answer: t2']
+551-0,22,*INV,['Acknowledgment']
+551-0,23,*PAR,"['Answer: t2', 'Answer: t4']"
+551-0,24,*PAR,['Answer: t4']
+551-0,25,*PAR,"['Answer: t8', 'Answer: t5']"
+551-0,26,*PAR,"['Answer: t6', 'Answer: t7']"
+551-0,27,*INV,['Acknowledgment']
+559-0,0,*INV,['Instruction']
+559-0,1,*INV,['Instruction']
+559-0,2,*INV,['Instruction']
+559-0,3,*PAR,['Answer: t4']
+559-0,4,*PAR,['Answer: t2']
+559-0,5,*PAR,"['Answer: t5', 'Answer: t8']"
+559-0,6,*PAR,['Answer: t6']
+559-0,7,*PAR,['Stalling']
+559-0,8,*PAR,['Answer: t6']
+559-0,9,*PAR,['Stalling']
+559-0,10,*INV,['Farewell']
+581-0,0,*INV,['Question: General']
+581-0,1,*PAR,['Answer: t4']
+581-0,2,*PAR,"['Answer: t5', 'Answer: t8']"
+581-0,3,*PAR,['Answer: t4']
+581-0,4,*PAR,['Stalling']
+581-0,5,*INV,['Request: Clarification']
+581-0,6,*PAR,['Answer: t4']
+581-0,7,*PAR,['Answer: t4']
+581-0,8,*INV,['Acknowledgment']
+581-0,9,*PAR,['Answer: t6']
+581-0,10,*PAR,['Answer: General']
+581-0,11,*INV,['Acknowledgment']
+612-0,0,*INV,['Instruction']
+612-0,1,*INV,['Instruction']
+612-0,2,*INV,['Instruction']
+612-0,3,*PAR,"['Answer: t6', 'Answer: t5']"
+612-0,4,*PAR,['Answer: t6']
+612-0,5,*PAR,"['Answer: t5', 'Answer: t8']"
+612-0,6,*PAR,['Answer: t2']
+612-0,7,*PAR,['Answer: t4']
+612-0,8,*PAR,['Answer: t1']
+612-0,9,*PAR,['Answer: t1']
+612-0,10,*PAR,['Answer: General']
+612-0,11,*PAR,['Answer: t6']
+612-0,12,*INV,['Acknowledgment']
+612-0,13,*PAR,['Answer: t6']
+612-0,14,*PAR,['Answer: General']
+612-0,15,*INV,['Acknowledgment']
+627-0,0,*INV,['Instruction']
+627-0,1,*INV,['Instruction']
+627-0,2,*PAR,['Request: Clarification']
+627-0,3,*INV,['Answer: Yes']
+627-0,4,*PAR,"['Answer: t6', 'Answer: t5']"
+627-0,5,*PAR,['Answer: t8']
+627-0,6,*PAR,['Answer: t6']
+627-0,7,*PAR,['Answer: t2']
+627-0,8,*PAR,['Answer: t4']
+627-0,9,*PAR,['Answer: t1']
+627-0,10,*PAR,"['Answer: t5', 'Answer: t8']"
+627-0,11,*PAR,['Answer: t6']
+627-0,12,*PAR,['Answer: t6']
+627-0,13,*PAR,['Answer: t6']
+627-0,14,*INV,['Question: General']
+627-0,15,*PAR,['Answer: Yes']
+639-0,0,*INV,['Instruction']
+639-0,1,*INV,['Instruction']
+639-0,2,*INV,['Instruction']
+639-0,3,*PAR,['Answer: t4']
+639-0,4,*PAR,['Answer: t2']
+639-0,5,*PAR,"['Answer: t6', 'Answer: t8']"
+639-0,6,*PAR,['Answer: t6']
+639-0,7,*PAR,['Answer: t4']
+639-0,8,*PAR,['Answer: t1']
+639-0,9,*INV,['Question: General']
+639-0,10,*INV,['Question: General']
+639-0,11,*PAR,['Answer: Yes']
+640-0,0,*PAR,"['Answer: t6', 'Answer: t5']"
+640-0,1,*PAR,['Answer: t2']
+640-0,2,*PAR,['Answer: t4']
+640-0,3,*PAR,"['Answer: t5', 'Answer: t8']"
+640-0,4,*PAR,['Answer: t6']
+640-0,5,*PAR,['Answer: t6']
+640-0,6,*INV,['Acknowledgment']
+642-0,0,*INV,['Instruction']
+642-0,1,*INV,['Instruction']
+642-0,2,*PAR,['Acknowledgment']
+642-0,3,*INV,['Instruction']
+642-0,4,*PAR,['Request: Clarification']
+642-0,5,*INV,['Answer: Yes']
+642-0,6,*PAR,['Answer: General']
+642-0,7,*PAR,"['Answer: t6', 'Answer: t5']"
+642-0,8,*PAR,"['Answer: t5', 'Answer: t8']"
+642-0,9,*PAR,['Feedback: Reflexive']
+642-0,10,*PAR,['Question: Reflexive']
+642-0,11,*PAR,['Answer: t6']
+642-0,12,*PAR,['Answer: t2']
+642-0,13,*PAR,"['Answer: t2', 'Answer: t4']"
+642-0,14,*PAR,['Answer: t3']
+642-0,15,*PAR,['Answer: t1']
+642-0,16,*PAR,['Question: Reflexive']
+642-0,17,*PAR,['Feedback: Reflexive']
+642-0,18,*INV,['Farewell']
+648-0,0,*INV,['Instruction']
+648-0,1,*INV,['Instruction']
+648-0,2,*PAR,['Request: Clarification']
+648-0,3,*PAR,"['Answer: t6', 'Answer: t8']"
+648-0,4,*PAR,"['Answer: t2', 'Answer: t4']"
+648-0,5,*PAR,['Answer: t2']
+648-0,6,*PAR,['Answer: t4']
+648-0,7,*PAR,['Answer: t4']
+648-0,8,*PAR,['Answer: t1']
+648-0,9,*PAR,['Answer: t1']
+648-0,10,*PAR,['Answer: General']
+648-0,11,*PAR,['Answer: t4']
+648-0,12,*INV,['Question: General']
+648-0,13,*PAR,['Answer: Yes']
+650-0,0,*PAR,"['Answer: t6', 'Answer: t5']"
+650-0,1,*PAR,['Answer: t6']
+650-0,2,*PAR,"['Answer: t5', 'Answer: t8']"
+650-0,3,*PAR,['Answer: t6']
+650-0,4,*PAR,['Question: General']
+650-0,5,*INV,['Answer: Yes']
+650-0,6,*PAR,['Acknowledgment']
+650-0,7,*PAR,['Request: Clarification']
+650-0,8,*INV,['Answer: General']
+650-0,9,*PAR,['Feedback: Reflexive']
+650-0,10,*PAR,['Answer: t2']
+650-0,11,*PAR,['Stalling']
+650-0,12,*PAR,"['Answer: t6', 'Answer: t5']"
+650-0,13,*PAR,['Answer: t2']
+650-0,14,*PAR,['Answer: t4']
+650-0,15,*PAR,"['Answer: t1', 'Answer: t2']"
+650-0,16,*PAR,['Question: General']
+650-0,17,*INV,['Answer: No']
+650-0,18,*PAR,['Question: Reflexive']
+650-0,19,*PAR,['Feedback: Reflexive']
+650-0,20,*INV,['Acknowledgment']
+651-0,0,*INV,['Instruction']
+651-0,1,*INV,['Instruction']
+651-0,2,*PAR,['Answer: t6']
+651-0,3,*INV,['Acknowledgment']
+651-0,4,*PAR,"['Answer: t5', 'Answer: t8']"
+651-0,5,*PAR,['Answer: t4']
+651-0,6,*PAR,['Stalling']
+651-0,7,*INV,['Question: General']
+651-0,8,*PAR,['Answer: Yes']
+651-0,9,*INV,['Acknowledgment']
+656-0,0,*PAR,['Answer: t4']
+656-0,1,*PAR,['Answer: t2']
+656-0,2,*PAR,"['Answer: t6', 'Answer: t8']"
+656-0,3,*PAR,['Answer: t6']
+656-0,4,*PAR,['Answer: t2']
+656-0,5,*PAR,['Answer: t1']
+656-0,6,*PAR,['Question: General']
+656-0,7,*INV,['Answer: General']
+657-0,0,*INV,['Instruction']
+657-0,1,*INV,['Instruction']
+657-0,2,*PAR,['Answer: t2']
+657-0,3,*PAR,"['Answer: t6', 'Answer: t5']"
+657-0,4,*PAR,['Answer: t8']
+657-0,5,*PAR,['Answer: t6']
+657-0,6,*INV,['Acknowledgment']
+657-0,7,*PAR,['Answer: t4']
+657-0,8,*INV,['Question: General']
+657-0,9,*PAR,['Answer: General']
+657-0,10,*PAR,['Answer: General']
+657-0,11,*INV,['Acknowledgment']
+660-0,0,*INV,['Question: General']
+660-0,1,*PAR,"['Answer: t6', 'Answer: t5']"
+660-0,2,*INV,['Acknowledgment']
+660-0,3,*PAR,['Answer: t6']
+660-0,4,*PAR,['Answer: t6']
+660-0,5,*PAR,['Answer: t8']
+660-0,6,*INV,['Acknowledgment']
+660-0,7,*PAR,['Answer: t6']
+660-0,8,*INV,['Question: General']
+660-0,9,*PAR,['Answer: t4']
+660-0,10,*INV,['Acknowledgment']
+660-0,11,*PAR,['Feedback: Reflexive']
+660-0,12,*PAR,['Feedback: Reflexive']
+660-0,13,*INV,['Acknowledgment']
+661-0,0,*INV,['Instruction']
+661-0,1,*INV,['Instruction']
+661-0,2,*PAR,['Request: Clarification']
+661-0,3,*INV,['Answer: Yes']
+661-0,4,*PAR,"['Answer: t6', 'Answer: t5']"
+661-0,5,*PAR,"['Answer: t5', 'Answer: t8']"
+661-0,6,*PAR,['Answer: t6']
+661-0,7,*PAR,['Answer: t2']
+661-0,8,*PAR,['Answer: t4']
+661-0,9,*PAR,['Answer: t4']
+661-0,10,*PAR,['Answer: t1']
+661-0,11,*PAR,"['Answer: t2', 'Answer: t6', 'Answer: t5']"
+661-0,12,*PAR,['Answer: t6']
+661-0,13,*PAR,"['Answer: t4', 'Answer: t8']"
+661-0,14,*PAR,"['Answer: t5', 'Answer: t6', 'Answer: t2']"
+661-0,15,*INV,['Acknowledgment']
+663-0,0,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+663-0,1,*PAR,['Answer: t2']
+663-0,2,*PAR,['Answer: t4']
+663-0,3,*PAR,['Answer: t4']
+663-0,4,*PAR,['Answer: t1']
+663-0,5,*PAR,['Answer: t1']
+663-0,6,*PAR,['Answer: General']
+663-0,7,*INV,['Acknowledgment']
+668-0,0,*INV,['Instruction']
+668-0,1,*INV,['Instruction']
+668-0,2,*PAR,"['Answer: t6', 'Answer: t5']"
+668-0,3,*PAR,['Answer: t8']
+668-0,4,*PAR,['Answer: t6']
+668-0,5,*PAR,"['Answer: t2', 'Answer: t4']"
+668-0,6,*PAR,['Answer: t4']
+668-0,7,*PAR,['Answer: t2']
+668-0,8,*PAR,['Request: Clarification']
+668-0,9,*INV,['Answer: Yes']
+668-0,10,*PAR,['Answer: t4']
+668-0,11,*PAR,['Answer: t4']
+668-0,12,*PAR,['Answer: t4']
+668-0,13,*PAR,['Answer: General']
+668-0,14,*PAR,['Answer: General']
+668-0,15,*INV,['Acknowledgment']
+668-0,16,*PAR,['Answer: t1']
+668-0,17,*PAR,['Answer: General']
+668-0,18,*INV,['Acknowledgment']
+672-0,0,*INV,['Instruction']
+672-0,1,*INV,['Question: General']
+672-0,2,*PAR,['Answer: t4']
+672-0,3,*PAR,"['Answer: t6', 'Answer: t8']"
+672-0,4,*INV,['Acknowledgment']
+672-0,5,*PAR,['Answer: General']
+672-0,6,*INV,['Question: General']
+672-0,7,*PAR,"['Answer: t6', 'Answer: t8']"
+672-0,8,*INV,['Acknowledgment']
+672-0,9,*PAR,['Answer: t6']
+672-0,10,*PAR,['Answer: General']
+672-0,11,*INV,['Acknowledgment']
+674-0,0,*INV,['Instruction']
+674-0,1,*INV,['Instruction']
+674-0,2,*PAR,"['Answer: t6', 'Answer: t5']"
+674-0,3,*PAR,['Answer: t6']
+674-0,4,*PAR,['Answer: t2']
+674-0,5,*PAR,['Answer: t4']
+674-0,6,*PAR,['Answer: t3']
+674-0,7,*INV,['Farewell']
+676-0,0,*INV,['Instruction']
+676-0,1,*PAR,"['Answer: t6', 'Answer: t8']"
+676-0,2,*PAR,['Answer: t2']
+676-0,3,*PAR,['Question: General']
+676-0,4,*INV,['Answer: General']
+676-0,5,*PAR,['Answer: General']
+676-0,6,*INV,['Question: General']
+676-0,7,*PAR,['Answer: Yes']
+676-0,8,*INV,['Acknowledgment']
+678-0,0,*INV,['Instruction']
+678-0,1,*PAR,['Answer: t4']
+678-0,2,*PAR,"['Answer: t5', 'Answer: t8']"
+678-0,3,*PAR,['Answer: t6']
+678-0,4,*PAR,['Answer: t6']
+678-0,5,*PAR,['Answer: General']
+678-0,6,*INV,['Acknowledgment']
+678-0,7,*PAR,['Answer: t2']
+678-0,8,*INV,['Acknowledgment']
+678-0,9,*PAR,['Answer: t3']
+678-0,10,*PAR,['Answer: t6']
+678-0,11,*PAR,['Answer: t6']
+678-0,12,*PAR,"['Answer: t6', 'Answer: t5']"
+678-0,13,*INV,['Farewell']
+681-0,0,*INV,['Instruction']
+681-0,1,*INV,['Instruction']
+681-0,2,*PAR,"['Answer: t2', 'Answer: t6']"
+681-0,3,*PAR,"['Answer: t2', 'Answer: t5', 'Answer: t6']"
+681-0,4,*PAR,['Answer: t4']
+681-0,5,*PAR,"['Answer: t2', 'Answer: t5', 'Answer: t6']"
+681-0,6,*PAR,['Stalling']
+681-0,7,*PAR,['Stalling']
+681-0,8,*INV,['Acknowledgment']
+681-0,9,*INV,['Acknowledgment']
+684-0,0,*INV,['Instruction']
+684-0,1,*INV,['Instruction']
+684-0,2,*PAR,['Answer: t6']
+684-0,3,*PAR,['Answer: t8']
+684-0,4,*PAR,['Answer: t6']
+684-0,5,*PAR,['Answer: t2']
+684-0,6,*PAR,['Answer: t4']
+684-0,7,*PAR,['Answer: t4']
+684-0,8,*PAR,"['Answer: t8', 'Answer: t7', 'Answer: t4']"
+684-0,9,*PAR,['Answer: t3']
+684-0,10,*PAR,['Answer: t1']
+684-0,11,*PAR,['Answer: t1']
+684-0,12,*PAR,"['Answer: t3', 'Answer: t5', 'Answer: t6', 'Answer: t7', 'Answer: t8']"
+684-0,13,*INV,['Instruction']
+684-0,14,*PAR,['Acknowledgment']
+684-0,15,*PAR,"['Answer: t1', 'Answer: t2']"
+684-0,16,*PAR,['Answer: t6']
+684-0,17,*PAR,"['Answer: t5', 'Answer: t8']"
+684-0,18,*PAR,['Answer: t8']
+684-0,19,*PAR,['Answer: t4']
+684-0,20,*PAR,['Answer: t2']
+684-0,21,*PAR,['Answer: General']
+684-0,22,*INV,['Farewell']
+684-0,23,*PAR,['Acknowledgment']
+686-0,0,*INV,['Instruction']
+686-0,1,*PAR,['Answer: t6']
+686-0,2,*PAR,"['Answer: t6', 'Answer: t5']"
+686-0,3,*PAR,['Answer: t4']
+686-0,4,*PAR,['Answer: t2']
+686-0,5,*PAR,['Answer: t1']
+686-0,6,*PAR,['Answer: t3']
+686-0,7,*PAR,['Answer: t1']
+686-0,8,*PAR,['Answer: t1']
+686-0,9,*PAR,['Answer: t1']
+686-0,10,*PAR,['Answer: t1']
+686-0,11,*PAR,"['Answer: t6', 'Answer: t5']"
+686-0,12,*PAR,"['Answer: t6', 'Answer: t5']"
+686-0,13,*INV,['Acknowledgment']
+688-0,0,*INV,['Instruction']
+688-0,1,*PAR,['Acknowledgment']
+688-0,2,*INV,['Instruction']
+688-0,3,*PAR,['Answer: General']
+688-0,4,*PAR,['Answer: t4']
+688-0,5,*PAR,['Answer: t4']
+688-0,6,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+688-0,7,*PAR,['Answer: t6']
+688-0,8,*PAR,"['Answer: t2', 'Answer: t1']"
+688-0,9,*PAR,['Answer: t1']
+688-0,10,*PAR,"['Answer: t2', 'Answer: t5', 'Answer: t1']"
+688-0,11,*PAR,"['Answer: t2', 'Answer: t5', 'Answer: t1']"
+688-0,12,*PAR,['Answer: General']
+688-0,13,*INV,['Acknowledgment']
+689-0,0,*INV,['Instruction']
+689-0,1,*PAR,['Answer: t2']
+689-0,2,*PAR,['Answer: t2']
+689-0,3,*PAR,['Answer: t4']
+689-0,4,*PAR,"['Answer: t5', 'Answer: t8']"
+689-0,5,*PAR,"['Answer: t5', 'Answer: t8']"
+689-0,6,*PAR,['Answer: t6']
+689-0,7,*INV,['Acknowledgment']
+690-0,0,*INV,['Instruction']
+690-0,1,*INV,['Instruction']
+690-0,2,*INV,['Question: General']
+690-0,3,*PAR,['Request: Clarification']
+690-0,4,*INV,['Answer: Yes']
+690-0,5,*PAR,['Answer: t2']
+690-0,6,*PAR,"['Answer: t6', 'Answer: t5']"
+690-0,7,*PAR,['Answer: t6']
+690-0,8,*PAR,"['Answer: t5', 'Answer: t8']"
+690-0,9,*PAR,['Answer: General']
+690-0,10,*PAR,['Answer: t3']
+690-0,11,*PAR,['Stalling']
+690-0,12,*INV,['Acknowledgment']
+691-0,0,*INV,['Acknowledgment']
+691-0,1,*INV,['Instruction']
+691-0,2,*PAR,['Acknowledgment']
+691-0,3,*PAR,['Answer: t6']
+691-0,4,*PAR,"['Answer: t5', 'Answer: t8']"
+691-0,5,*PAR,['Answer: t6']
+691-0,6,*PAR,['Answer: t2']
+691-0,7,*PAR,"['Answer: t2', 'Answer: t4']"
+691-0,8,*PAR,['Answer: t4']
+691-0,9,*PAR,['Answer: t1']
+691-0,10,*PAR,['Answer: t2']
+691-0,11,*PAR,"['Answer: t2', 'Answer: t4']"
+691-0,12,*PAR,['Answer: t2']
+691-0,13,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8', 'Answer: t1']"
+691-0,14,*PAR,"['Answer: t6', 'Answer: t3']"
+691-0,15,*PAR,['Answer: t4']
+691-0,16,*PAR,"['Answer: t6', 'Answer: t7']"
+691-0,17,*PAR,['Answer: t5']
+691-0,18,*PAR,['Answer: t1']
+691-0,19,*INV,['Acknowledgment']
+695-0,0,*INV,['Instruction']
+695-0,1,*PAR,['Acknowledgment']
+695-0,2,*INV,['Instruction']
+695-0,3,*PAR,['Answer: General']
+695-0,4,*INV,['Instruction']
+695-0,5,*PAR,['Request: Clarification']
+695-0,6,*INV,['Instruction']
+695-0,7,*PAR,"['Answer: t5', 'Answer: t8']"
+695-0,8,*PAR,['Answer: t8']
+695-0,9,*INV,['Acknowledgment']
+695-0,10,*PAR,"['Answer: t6', 'Answer: t5']"
+695-0,11,*PAR,"['Answer: t5', 'Answer: t8']"
+695-0,12,*PAR,['Answer: t2']
+695-0,13,*PAR,['Answer: t4']
+695-0,14,*PAR,['Answer: t4']
+695-0,15,*PAR,['Answer: General']
+695-0,16,*INV,['Acknowledgment']
+698-0,0,*INV,['Instruction']
+698-0,1,*PAR,['Answer: t6']
+698-0,2,*PAR,"['Answer: t5', 'Answer: t8']"
+698-0,3,*PAR,"['Answer: t5', 'Answer: t8']"
+698-0,4,*PAR,"['Answer: t2', 'Answer: t4']"
+698-0,5,*INV,['Stalling']
+698-0,6,*INV,['Stalling']
+698-0,7,*INV,['Acknowledgment']
+698-0,8,*INV,['Instruction']
+698-0,9,*INV,['Question: General']
+698-0,10,*PAR,"['Answer: t6', 'Answer: t5']"
+698-0,11,*PAR,"['Answer: t6', 'Answer: t5']"
+698-0,12,*INV,['Question: General']
+698-0,13,*INV,['Question: General']
+698-0,14,*PAR,"['Answer: t5', 'Answer: t6']"
+698-0,15,*PAR,"['Answer: t2', 'Answer: t3']"
+698-0,16,*PAR,['Answer: t2']
+698-0,17,*INV,['Question: General']
+698-0,18,*PAR,['Answer: t2']
+698-0,19,*INV,['Question: General']
+698-0,20,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+698-0,21,*INV,['Acknowledgment']
+698-0,22,*INV,['Farewell']
+702-0,0,*INV,['Question: General']
+702-0,1,*INV,['Instruction']
+702-0,2,*INV,['Instruction']
+702-0,3,*PAR,['Request: Clarification']
+702-0,4,*PAR,"['Answer: t6', 'Answer: t5']"
+702-0,5,*PAR,['Answer: t6']
+702-0,6,*PAR,"['Answer: t2', 'Answer: t4']"
+702-0,7,*PAR,['Answer: t1']
+702-0,8,*PAR,['Answer: t8']
+702-0,9,*PAR,['Answer: t6']
+702-0,10,*INV,['Acknowledgment']
+703-0,0,*INV,['Instruction']
+703-0,1,*INV,['Question: General']
+703-0,2,*PAR,"['Answer: t5', 'Answer: t8']"
+703-0,3,*INV,['Acknowledgment']
+703-0,4,*PAR,"['Answer: t2', 'Answer: t1']"
+703-0,5,*INV,['Acknowledgment']
+703-0,6,*PAR,"['Answer: t2', 'Answer: t4']"
+703-0,7,*INV,['Acknowledgment']
+703-0,8,*INV,['Question: General']
+703-0,9,*PAR,"['Answer: t5', 'Answer: t8']"
+703-0,10,*PAR,['Answer: t2']
+703-0,11,*INV,['Acknowledgment']
+703-0,12,*PAR,['Answer: t4']
+703-0,13,*INV,['Acknowledgment']
+704-0,0,*INV,['Instruction']
+704-0,1,*PAR,"['Answer: t5', 'Answer: t8']"
+704-0,2,*INV,['Acknowledgment']
+704-0,3,*PAR,"['Answer: t2', 'Answer: t4']"
+704-0,4,*INV,['Question: General']
+704-0,5,*PAR,['Answer: t4']
+704-0,6,*INV,['Acknowledgment']
+704-0,7,*PAR,['Answer: t4']
+704-0,8,*INV,['Acknowledgment']
+704-0,9,*PAR,['Answer: t1']
+704-0,10,*PAR,['Answer: t1']
+704-0,11,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+704-0,12,*PAR,['Answer: General']
+704-0,13,*INV,['Farewell']
+705-0,0,*INV,['Question: General']
+705-0,1,*PAR,['Answer: Yes']
+705-0,2,*INV,['Question: General']
+705-0,3,*PAR,['Answer: t6']
+705-0,4,*INV,['Acknowledgment']
+705-0,5,*PAR,"['Answer: t6', 'Answer: t5']"
+705-0,6,*PAR,['Correction']
+705-0,7,*PAR,"['Answer: t6', 'Answer: t5']"
+705-0,8,*PAR,['Answer: t6']
+705-0,9,*PAR,['Answer: t2']
+705-0,10,*PAR,['Answer: General']
+705-0,11,*INV,['Question: General']
+705-0,12,*PAR,['Request: Clarification']
+705-0,13,*INV,['Answer: Yes']
+705-0,14,*PAR,"['Answer: t5', 'Answer: t8']"
+705-0,15,*INV,['Acknowledgment']
+705-0,16,*INV,['Question: General']
+705-0,17,*INV,['Question: General']
+705-0,18,*PAR,['Answer: t2']
+705-0,19,*INV,['Acknowledgment']
+705-0,20,*PAR,['Answer: t4']
+705-0,21,*INV,['Acknowledgment']
+707-0,0,*INV,['Instruction']
+707-0,1,*INV,['Instruction']
+707-0,2,*PAR,['Acknowledgment']
+707-0,3,*INV,['Instruction']
+707-0,4,*PAR,"['Answer: t6', 'Answer: t5']"
+707-0,5,*PAR,['Answer: t6']
+707-0,6,*PAR,['Answer: t2']
+707-0,7,*PAR,['Answer: t4']
+707-0,8,*PAR,['Answer: t1']
+707-0,9,*PAR,['Answer: t1']
+707-0,10,*PAR,['Answer: t1']
+707-0,11,*PAR,['Answer: t1']
+707-0,12,*INV,['Acknowledgment']
+707-0,13,*PAR,['Answer: t6']
+707-0,14,*INV,['Farewell']
+709-2,0,*PAR,['Answer: t2']
+709-2,1,*PAR,"['Answer: t2', 'Answer: t4']"
+709-2,2,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+709-2,3,*PAR,['Answer: t6']
+709-2,4,*PAR,['Answer: t6']
+709-2,5,*PAR,['Answer: t6']
+709-2,6,*PAR,['Answer: t1']
+709-2,7,*PAR,"['Answer: t2', 'Answer: t4']"
+709-2,8,*PAR,['Answer: t2']
+709-2,9,*PAR,['Question: Reflexive']
+709-2,10,*PAR,['Request: Clarification']
+709-2,11,*PAR,['Answer: t3']
+709-2,12,*PAR,['Answer: General']
+709-2,13,*PAR,"['Answer: t6', 'Answer: t5']"
+709-2,14,*PAR,['Answer: General']
+709-2,15,*INV,['Acknowledgment']
+711-0,0,*INV,['Instruction']
+711-0,1,*PAR,['Answer: General']
+711-0,2,*INV,['Answer: General']
+711-0,3,*PAR,"['Answer: t2', 'Answer: t6', 'Answer: t5']"
+711-0,4,*PAR,['Answer: t6']
+711-0,5,*PAR,"['Answer: t2', 'Answer: t4']"
+711-0,6,*PAR,"['Answer: t2', 'Answer: t4']"
+711-0,7,*PAR,['Apology']
+711-0,8,*PAR,['Answer: t1']
+711-0,9,*PAR,['Answer: t1']
+711-0,10,*PAR,['Answer: t6']
+711-0,11,*PAR,"['Answer: t5', 'Answer: t8']"
+711-0,12,*PAR,['Answer: t4']
+711-0,13,*PAR,['Answer: t1']
+711-0,14,*PAR,['Answer: t1']
+711-0,15,*PAR,['Answer: t2']
+711-0,16,*PAR,['Answer: t1']
+711-0,17,*INV,['Acknowledgment']
+714-0,0,*INV,['Instruction']
+714-0,1,*INV,['Instruction']
+714-0,2,*PAR,"['Answer: t2', 'Answer: t5', 'Answer: t8']"
+714-0,3,*PAR,"['Answer: t6', 'Answer: t5']"
+714-0,4,*INV,['Question: General']
+714-0,5,*INV,['Question: General']
+714-0,6,*PAR,['Answer: t6']
+714-0,7,*PAR,"['Answer: t5', 'Answer: t8']"
+714-0,8,*INV,['Acknowledgment']
+015-4,0,*INV,['Instruction']
+015-4,1,*INV,['Instruction']
+015-4,2,*PAR,['Question: General']
+015-4,3,*INV,['Answer: Yes']
+015-4,4,*PAR,"['Answer: t6', 'Answer: t5']"
+015-4,5,*PAR,['Answer: t8']
+015-4,6,*PAR,"['Answer: t6', 'Answer: t8']"
+015-4,7,*PAR,['Answer: t6']
+015-4,8,*PAR,['Answer: t2']
+015-4,9,*PAR,"['Answer: t2', 'Answer: t4']"
+015-4,10,*PAR,['Answer: t4']
+015-4,11,*PAR,"['Answer: t2', 'Answer: t4']"
+015-4,12,*PAR,['Stalling']
+015-4,13,*PAR,['Answer: t3']
+015-4,14,*PAR,"['Answer: t2', 'Answer: t4']"
+015-4,15,*PAR,['Stalling']
+015-4,16,*PAR,['Answer: t2']
+015-4,17,*PAR,['Answer: t1']
+015-4,18,*PAR,['Answer: t6']
+015-4,19,*PAR,"['Answer: t3', 'Answer: t4', 'Answer: t5', 'Answer: t6', 'Answer: t7', 'Answer: t8']"
+015-4,20,*PAR,['Other']
+015-4,21,*PAR,['Stalling']
+016-0,0,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+016-0,1,*PAR,['Answer: t6']
+016-0,2,*INV,['Acknowledgment']
+016-0,3,*PAR,['Answer: t2']
+016-0,4,*PAR,['Answer: t1']
+016-0,5,*PAR,['Answer: t1']
+016-0,6,*INV,['Acknowledgment']
+016-0,7,*PAR,['Answer: Yes']
+016-0,8,*INV,['Farewell']
+014-2,0,*INV,['Question: General']
+014-2,1,*PAR,['Answer: t6']
+014-2,2,*INV,['Acknowledgment']
+014-2,3,*PAR,"['Answer: t6', 'Answer: t5']"
+014-2,4,*PAR,"['Answer: t5', 'Answer: t8']"
+014-2,5,*INV,['Acknowledgment']
+014-2,6,*PAR,['Other']
+014-2,7,*PAR,['Answer: t2']
+014-2,8,*PAR,['Question: General']
+014-2,9,*INV,['Question: General']
+014-2,10,*PAR,['Answer: General']
+014-2,11,*PAR,['Stalling']
+014-2,12,*PAR,['Answer: t4']
+014-2,13,*INV,['Acknowledgment']
+014-2,14,*PAR,['Answer: General']
+014-2,15,*PAR,['Answer: General']
+014-2,16,*INV,['Question: General']
+014-2,17,*INV,['Acknowledgment']
+014-2,18,*INV,['Question: General']
+014-2,19,*PAR,['Answer: t6']
+014-2,20,*PAR,"['Answer: t5', 'Answer: t8']"
+014-2,21,*INV,['Question: General']
+014-2,22,*PAR,['Answer: General']
+014-2,23,*INV,['Acknowledgment']
+002-2,0,*INV,['Instruction']
+002-2,1,*PAR,"['Answer: t2', 'Answer: t6', 'Answer: t5']"
+002-2,2,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+002-2,3,*PAR,['Answer: t2']
+002-2,4,*PAR,"['Answer: t2', 'Answer: t4']"
+002-2,5,*PAR,['Answer: t3']
+002-2,6,*PAR,['Answer: t1']
+002-2,7,*PAR,['Answer: t1']
+002-2,8,*PAR,['Answer: t1']
+002-2,9,*PAR,['Answer: t1']
+002-2,10,*PAR,"['Answer: t2', 'Answer: t4']"
+002-2,11,*PAR,"['Answer: t6', 'Answer: t7', 'Answer: t5', 'Answer: t8']"
+002-2,12,*PAR,"['Answer: t5', 'Answer: t8']"
+002-2,13,*PAR,"['Answer: t2', 'Answer: t6', 'Answer: t5']"
+002-2,14,*PAR,['Answer: General']
+002-2,15,*PAR,['Request: Clarification']
+002-2,16,*INV,['Answer: General']
+002-2,17,*PAR,['Acknowledgment']
+002-3,0,*INV,['Instruction']
+002-3,1,*PAR,['Acknowledgment']
+002-3,2,*PAR,"['Answer: t2', 'Answer: t6', 'Answer: t5']"
+002-3,3,*PAR,['Answer: t1']
+002-3,4,*PAR,"['Answer: t2', 'Answer: t4']"
+002-3,5,*PAR,"['Answer: t2', 'Answer: t6', 'Answer: t5']"
+002-3,6,*PAR,"['Answer: t6', 'Answer: t8']"
+002-3,7,*PAR,"['Answer: t6', 'Answer: t5']"
+002-3,8,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+002-3,9,*PAR,['Answer: t1']
+002-3,10,*PAR,['Answer: t1']
+002-3,11,*PAR,['Answer: t1']
+002-3,12,*INV,['Acknowledgment']
+002-3,13,*PAR,['Answer: t2']
+013-3,0,*PAR,['Other']
+013-3,1,*INV,['Instruction']
+013-3,2,*PAR,"['Answer: t6', 'Answer: t5']"
+013-3,3,*PAR,['Answer: t6']
+013-3,4,*PAR,"['Answer: t5', 'Answer: t8']"
+013-3,5,*PAR,['Answer: t2']
+013-3,6,*PAR,"['Answer: t3', 'Answer: t4']"
+013-3,7,*PAR,"['Answer: t3', 'Answer: t4']"
+013-3,8,*PAR,['Stalling']
+013-3,9,*PAR,['Answer: t4']
+013-3,10,*PAR,['Answer: t6']
+013-3,11,*PAR,['Answer: t6']
+013-3,12,*PAR,"['Answer: t6', 'Answer: t5']"
+013-3,13,*PAR,['Answer: t6']
+013-3,14,*INV,['Farewell']
+018-0,0,*INV,['Instruction']
+018-0,1,*PAR,"['Answer: t6', 'Answer: t5']"
+018-0,2,*PAR,['Answer: t6']
+018-0,3,*PAR,['Answer: t2']
+018-0,4,*PAR,"['Answer: t6', 'Answer: t5']"
+018-0,5,*PAR,"['Answer: t2', 'Answer: t6', 'Answer: t5']"
+018-0,6,*PAR,"['Answer: t2', 'Answer: t3', 'Answer: t4']"
+018-0,7,*PAR,['Answer: t4']
+018-0,8,*PAR,['Answer: t4']
+018-0,9,*PAR,"['Answer: t3', 'Answer: t4']"
+018-0,10,*PAR,['Correction']
+018-0,11,*PAR,['Answer: General']
+018-0,12,*INV,['Acknowledgment']
+018-0,13,*INV,['Question: General']
+018-0,14,*PAR,"['Answer: t5', 'Answer: t8']"
+018-0,15,*INV,['Acknowledgment']
+018-0,16,*PAR,['Stalling']
+018-0,17,*PAR,['Stalling']
+018-0,18,*PAR,['Stalling']
+018-0,19,*PAR,['Answer: General']
+018-0,20,*INV,['Acknowledgment']
+018-0,21,*PAR,['Answer: General']
+018-0,22,*INV,['Acknowledgment']
+018-0,23,*INV,['Acknowledgment']
+018-0,24,*PAR,['Answer: General']
+018-0,25,*INV,['Acknowledgment']
+018-0,26,*PAR,['Question: General']
+018-0,27,*INV,['Question: General']
+018-0,28,*PAR,['Answer: General']
+018-0,29,*INV,['Acknowledgment']
+018-0,30,*PAR,['Answer: General']
+018-0,31,*INV,['Acknowledgment']
+018-0,32,*INV,['Question: General']
+018-0,33,*INV,['Acknowledgment']
+018-0,34,*PAR,['Acknowledgment']
+018-0,35,*INV,['Farewell']
+018-0,36,*INV,['Acknowledgment']
+021-1,0,*INV,['Acknowledgment']
+021-1,1,*INV,['Instruction']
+021-1,2,*PAR,['Acknowledgment']
+021-1,3,*INV,['Instruction']
+021-1,4,*PAR,"['Answer: t2', 'Answer: t4']"
+021-1,5,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8', 'Answer: t2', 'Answer: t1']"
+021-1,6,*PAR,['Answer: t4']
+021-1,7,*PAR,"['Answer: t2', 'Answer: t1']"
+021-1,8,*PAR,"['Answer: t7', 'Answer: t8']"
+021-1,9,*PAR,['Answer: t6']
+021-1,10,*PAR,['Answer: t1']
+021-1,11,*PAR,['Stalling']
+021-1,12,*PAR,['Answer: t6']
+021-1,13,*PAR,['Stalling']
+021-1,14,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t4']"
+021-1,15,*INV,['Acknowledgment']
+023-0,0,*INV,['Instruction']
+023-0,1,*PAR,['Question: General']
+023-0,2,*PAR,['Feedback: Reflexive']
+023-0,3,*PAR,"['Answer: t2', 'Answer: t4']"
+023-0,4,*PAR,['Answer: t2']
+023-0,5,*PAR,"['Answer: t5', 'Answer: t8']"
+023-0,6,*PAR,['Answer: t6']
+023-0,7,*INV,['Acknowledgment']
+023-0,8,*PAR,"['Answer: t5', 'Answer: t8']"
+023-0,9,*PAR,['Answer: General']
+023-0,10,*INV,['Acknowledgment']
+021-2,0,*INV,['Question: General']
+021-2,1,*PAR,['Answer: t2']
+021-2,2,*PAR,['Answer: t4']
+021-2,3,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+021-2,4,*PAR,['Answer: t6']
+021-2,5,*PAR,['Answer: t4']
+021-2,6,*PAR,['Answer: t2']
+021-2,7,*PAR,['Other']
+021-2,8,*PAR,['Answer: General']
+021-2,9,*INV,['Acknowledgment']
+021-2,10,*INV,['Acknowledgment']
+023-2,0,*INV,['Question: General']
+023-2,1,*INV,['Instruction']
+023-2,2,*PAR,"['Answer: t6', 'Answer: t5']"
+023-2,3,*INV,['Acknowledgment']
+023-2,4,*PAR,['Answer: t6']
+023-2,5,*PAR,['Answer: t6']
+023-2,6,*PAR,"['Answer: t5', 'Answer: t8']"
+023-2,7,*PAR,['Answer: t6']
+023-2,8,*PAR,['Answer: General']
+023-2,9,*INV,['Question: General']
+023-2,10,*PAR,['Answer: t6']
+023-2,11,*PAR,['Answer: t6']
+023-2,12,*PAR,['Answer: t2']
+023-2,13,*INV,['Question: General']
+023-2,14,*INV,['Question: General']
+023-2,15,*PAR,['Request: Clarification']
+023-2,16,*INV,['Question: General']
+023-2,17,*INV,['Question: General']
+023-2,18,*PAR,['Answer: t2']
+023-2,19,*PAR,['Answer: General']
+023-2,20,*PAR,['Answer: t6']
+023-2,21,*INV,['Question: General']
+023-2,22,*PAR,['Answer: General']
+023-2,23,*INV,['Acknowledgment']
+021-3,0,*PAR,['Question: General']
+021-3,1,*INV,['Answer: Yes']
+021-3,2,*PAR,['Answer: t2']
+021-3,3,*PAR,['Answer: t4']
+021-3,4,*PAR,"['Answer: t7', 'Answer: t8']"
+021-3,5,*PAR,"['Answer: t6', 'Answer: t5']"
+021-3,6,*PAR,['Answer: t6']
+021-3,7,*PAR,"['Answer: t2', 'Answer: t1']"
+021-3,8,*PAR,['Answer: t4']
+021-3,9,*PAR,['Stalling']
+021-3,10,*PAR,"['Answer: t3', 'Answer: t4']"
+021-3,11,*PAR,"['Answer: t6', 'Answer: t5']"
+021-3,12,*PAR,['Answer: General']
+021-3,13,*INV,['Acknowledgment']
+024-1,0,*PAR,"['Answer: t6', 'Answer: t5']"
+024-1,1,*PAR,"['Answer: t7', 'Answer: t8']"
+024-1,2,*PAR,['Answer: t6']
+024-1,3,*PAR,['Stalling']
+024-1,4,*PAR,"['Answer: t2', 'Answer: t4']"
+024-1,5,*INV,['Acknowledgment']
+021-4,0,*INV,['Acknowledgment']
+021-4,1,*INV,['Instruction']
+021-4,2,*PAR,['Acknowledgment']
+021-4,3,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+021-4,4,*PAR,"['Answer: t2', 'Answer: t4']"
+021-4,5,*PAR,['Stalling']
+021-4,6,*PAR,['Answer: General']
+021-4,7,*PAR,['Answer: t1']
+021-4,8,*INV,['Acknowledgment']
+021-4,9,*PAR,['Acknowledgment']
+022-0,0,*INV,['Instruction']
+022-0,1,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+022-0,2,*PAR,['Answer: t6']
+022-0,3,*PAR,"['Answer: t2', 'Answer: t4']"
+022-0,4,*PAR,['Answer: t4']
+022-0,5,*PAR,['Answer: t1']
+022-0,6,*PAR,['Question: General']
+022-0,7,*PAR,['Request: Clarification']
+022-0,8,*INV,['Question: General']
+022-0,9,*INV,['Question: General']
+022-0,10,*PAR,['Answer: t3']
+022-0,11,*INV,['Acknowledgment']
+022-0,12,*PAR,['Request: Clarification']
+022-0,13,*INV,['Acknowledgment']
+022-0,14,*PAR,['Answer: General']
+024-2,0,*INV,['Instruction']
+024-2,1,*PAR,['Acknowledgment']
+024-2,2,*PAR,"['Answer: t6', 'Answer: t5']"
+024-2,3,*PAR,"['Answer: t5', 'Answer: t8']"
+024-2,4,*PAR,"['Answer: t6', 'Answer: t5']"
+024-2,5,*PAR,['Answer: t6']
+024-2,6,*PAR,['Answer: t6']
+024-2,7,*PAR,['Answer: General']
+024-2,8,*PAR,['Answer: t6']
+024-2,9,*PAR,['Stalling']
+024-2,10,*PAR,"['Answer: t2', 'Answer: t4']"
+024-2,11,*INV,['Acknowledgment']
+024-2,12,*PAR,['Acknowledgment']
+029-0,0,*INV,['Instruction']
+029-0,1,*PAR,['Answer: t6']
+029-0,2,*PAR,"['Answer: t6', 'Answer: t5']"
+029-0,3,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+029-0,4,*PAR,['Stalling']
+029-0,5,*PAR,['Answer: t4']
+029-0,6,*PAR,['Answer: t3']
+029-0,7,*PAR,['Answer: t2']
+029-0,8,*PAR,['Feedback: Reflexive']
+029-0,9,*PAR,"['Answer: t5', 'Answer: t8']"
+029-0,10,*PAR,['Feedback: Reflexive']
+029-0,11,*PAR,['Answer: t6']
+029-0,12,*PAR,['Answer: t4']
+029-0,13,*PAR,['Feedback: Reflexive']
+029-0,14,*PAR,['Answer: General']
+029-0,15,*INV,['Question: General']
+029-0,16,*PAR,['Answer: General']
+029-0,17,*INV,['Acknowledgment']
+029-0,18,*INV,['Farewell']
+022-1,0,*INV,['Other']
+022-1,1,*PAR,"['Answer: t6', 'Answer: t5']"
+022-1,2,*PAR,['Answer: t6']
+022-1,3,*PAR,['Answer: t8']
+022-1,4,*PAR,['Answer: t2']
+022-1,5,*PAR,['Answer: t4']
+022-1,6,*PAR,['Answer: t1']
+022-1,7,*PAR,['Answer: t3']
+022-1,8,*PAR,['Answer: General']
+029-1,0,*PAR,['Acknowledgment']
+029-1,1,*INV,['Instruction']
+029-1,2,*PAR,"['Answer: t6', 'Answer: t5']"
+029-1,3,*INV,['Acknowledgment']
+029-1,4,*PAR,['Answer: t6']
+029-1,5,*INV,['Acknowledgment']
+029-1,6,*PAR,['Answer: t2']
+029-1,7,*PAR,"['Answer: t2', 'Answer: t4']"
+029-1,8,*PAR,['Correction']
+029-1,9,*PAR,"['Answer: t2', 'Answer: t4']"
+029-1,10,*PAR,['Answer: t4']
+029-1,11,*PAR,['Answer: General']
+029-1,12,*PAR,['Question: General']
+029-1,13,*INV,['Answer: No']
+029-1,14,*PAR,"['Answer: t3', 'Answer: t4']"
+029-1,15,*PAR,['Answer: t4']
+029-1,16,*PAR,['Answer: t2']
+029-1,17,*PAR,"['Answer: t6', 'Answer: t5']"
+029-1,18,*PAR,"['Answer: t5', 'Answer: t7', 'Answer: t8']"
+029-1,19,*PAR,['Answer: t2']
+029-1,20,*PAR,['Stalling']
+029-1,21,*PAR,['Answer: General']
+029-1,22,*INV,['Instruction']
+029-1,23,*PAR,['Stalling']
+029-1,24,*PAR,['Stalling']
+029-1,25,*PAR,"['Answer: t2', 'Answer: t4']"
+029-1,26,*PAR,['Answer: t6']
+029-1,27,*PAR,"['Answer: t6', 'Answer: t7', 'Answer: t8']"
+029-1,28,*INV,['Acknowledgment']
+029-1,29,*PAR,['Apology']
+022-2,0,*INV,['Instruction']
+022-2,1,*INV,['Question: General']
+022-2,2,*PAR,['Acknowledgment']
+022-2,3,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+022-2,4,*PAR,"['Answer: t6', 'Answer: t7']"
+022-2,5,*PAR,"['Answer: t2', 'Answer: t4']"
+022-2,6,*PAR,['Answer: t2']
+022-2,7,*PAR,['Answer: t3']
+022-2,8,*PAR,['Answer: t2']
+022-2,9,*PAR,['Answer: General']
+022-2,10,*INV,['Acknowledgment']
+002-0,0,*PAR,"['Answer: t1', 'Answer: t2', 'Answer: t3', 'Answer: t5', Answer: t6]"
+002-0,1,*PAR,"['Answer: t2', 'Answer: t4']"
+002-0,2,*PAR,"['Answer: t5', 'Answer: t6', 'Answer: t8']"
+002-0,3,*PAR,['Answer: t6']
+002-0,4,*PAR,['Answer: t1']
+002-0,5,*PAR,['Answer: t1']
+002-0,6,*PAR,['Answer: t1']
+002-0,7,*PAR,['Answer: t1']
+002-0,8,*PAR,['Answer: t1']
+002-0,9,*PAR,"['Answer: t3', 'Answer: t2']"
+002-0,10,*PAR,"['Answer: t3', 'Answer: t5', 'Answer: t8']"
+002-0,11,*PAR,['Answer: t6']
+002-0,12,*PAR,"['Answer: t5', 'Answer: t6', 'Answer: t7']"
+002-0,13,*PAR,"['Answer: t5', 'Answer: t6', 'Answer: t7']"
+002-0,14,*PAR,"['Answer: t5', 'Answer: t6', 'Answer: t2', 'Answer: t7']"
+002-0,15,*PAR,['Request:Clarification']
+002-0,16,*INV,['Answer: No']
+002-0,17,*PAR,['Answer: t2']
+002-0,18,*INV,['Acknowledgement']
+002-0,19,*PAR,"['Answer: t2', 'Answer: t1']"
+002-0,20,*INV,['Acknowledgement']
+010-0,0,*INV,['Instruction']
+010-0,1,*PAR,['Stalling']
+010-0,2,*PAR,"['Answer: t5', 'Answer: t6', 'Answer: t8']"
+010-0,3,*PAR,['Question:Reflexive']
+010-0,4,*PAR,['Answer: t4']
+010-0,5,*PAR,['Answer: t2']
+010-0,6,*PAR,"['Answer: t2', 'Answer: t1']"
+010-0,7,*PAR,['Answer: t6']
+010-0,8,*PAR,['Answer: t6']
+010-0,9,*PAR,['Stalling']
+010-0,10,*PAR,['Request:Clarification']
+010-0,11,*INV,['Answer:Yes']
+010-0,12,*PAR,['Answer: t1']
+010-0,13,*PAR,['Answer: t1']
+010-0,14,*PAR,"['Answer: t2', 'Answer: t4']"
+010-0,15,*PAR,['Answer: t3']
+010-0,16,*PAR,"['Answer: t5', 'Answer: t8']"
+010-0,17,*PAR,['Answer: t6']
+010-0,18,*PAR,['Question:Reflexive']
+010-0,19,*PAR,['Answer: t6']
+010-0,20,*PAR,['Other']
+010-0,21,*PAR,['Other']
+010-0,22,*PAR,"['Answer: t7', 'Answer: t8']"
+010-0,23,*INV,['Answer:General']
+010-0,24,*PAR,['Answer:General']
+010-0,25,*INV,['Acknowledgement']
+010-1,0,*INV,['Stalling']
+010-1,1,*INV,['Instruction']
+010-1,2,*PAR,['Stalling']
+010-1,3,*PAR,['Acknowledgement']
+010-1,4,*PAR,"['Answer: t2', 'Answer: t3', 'Answer: t5', 'Answer: t6']"
+010-1,5,*PAR,['Answer: t2']
+010-1,6,*PAR,"['Answer: t3', 'Answer: t4']"
+010-1,7,*PAR,"['Answer: t1', 'Answer: t2']"
+010-1,8,*PAR,"['Answer: t5', 'Answer: t6']"
+010-1,9,*PAR,['Answer: t8']
+010-1,10,*PAR,['Answer: t6']
+010-1,11,*PAR,['Answer: t6']
+010-1,12,*PAR,['Answer: t6']
+010-1,13,*PAR,['Answer: t1']
+010-1,14,*PAR,['Answer: t1']
+010-1,15,*PAR,['Request:Clarification']
+010-1,16,*INV,['Answer:Yes']
+010-1,17,*PAR,['Answer: t2']
+010-1,18,*PAR,['Answer: t2']
+010-1,20,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+010-1,21,*INV,['Acknowledgement']
+010-1,22,*PAR,['Answer: t1']
+010-1,23,*PAR,['Answer: t8']
+010-1,24,*PAR,['Answer: t8']
+010-1,25,*INV,['Acknowledgement']
+010-1,26,*PAR,['Answer: t8']
+010-1,27,*INV,['Acknowledgement']
+010-1,28,*PAR,['Request:Clarification']
+010-1,29,*INV,['Answer:Yes']
+010-1,30,*PAR,"['Answer: t8', 'Answer: t5']"
+010-1,31,*INV,['Acknowledgement']
+010-1,32,*INV,['Request:Clarification']
+010-1,33,*INV,['Answer:Yes']
+010-2,0,*INV,['Instruction']
+010-2,1,*PAR,['Question:General']
+010-2,2,*PAR,['Stalling']
+010-2,3,*PAR,"['Answer: t7', 'Answer: t5']"
+010-2,4,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+010-2,5,*PAR,"['Answer: t6', 'Answer: t7']"
+010-2,6,*PAR,['Answer: t6']
+010-2,7,*PAR,"['Answer: t5', 'Answer: t6']"
+010-2,8,*PAR,['Answer: t5']
+010-2,9,*PAR,['Answer: t6']
+010-2,10,*PAR,['Answer: t6']
+010-2,11,*PAR,"['Answer: t5', 'Answer: t8']"
+010-2,12,*PAR,['Answer: t2']
+010-2,13,*PAR,"['Answer: t1', 'Answer: t2']"
+010-2,14,*PAR,"['Answer: t4', 'Answer: t1']"
+010-2,15,*PAR,['Question:Reflexive']
+010-2,16,*PAR,['Answer: t1']
+010-2,17,*PAR,['Answer: t1']
+010-2,18,*PAR,['Answer: t1']
+010-2,19,*PAR,['Answer: t2']
+010-2,20,*PAR,['Answer: t3']
+010-2,21,*PAR,['Answer: t3']
+010-2,22,*PAR,['Answer: t4']
+010-2,23,*PAR,['Stalling']
+010-2,24,*PAR,"['Answer:t2', 'Answer:t5', 'Answer:t8']"
+010-2,25,*PAR,['Stalling']
+010-2,26,*PAR,['Stalling']
+010-2,27,*PAR,['Answer: t3']
+010-2,28,*PAR,['Request:Clarification']
+010-2,31,*PAR,"['Answer: t1', 'Answer: t2']"
+010-2,32,*PAR,['Request:Clarification']
+010-2,33,*PAR,['Request:Clarification']
+010-2,34,*INV,['Answer:Yes']
+010-3,0,*PAR,"['Answer:t5', 'Answer:t6', 'Answer:t7', 'Answer:t8']"
+010-4,1,*PAR,"['Answer: t2', 'Answer: t4']"
+010-5,2,*PAR,['Answer: t4']
+010-6,3,*PAR,['Answer: t2']
+010-7,4,*PAR,['Answer: t4']
+010-8,5,*PAR,['Answer: t3']
+010-9,6,*PAR,"['Answer: t1', 'Answer: t2']"
+010-10,7,*PAR,['Answer: t2']
+010-11,8,*PAR,"['Answer: t6', 'Answer: t5', 'Answer: t8']"
+010-11,9,*PAR,['Answer: t8']
+010-11,10,*PAR,['Question:Reflexive']
+010-11,11,*PAR,['Answer: t3']
+010-11,12,*PAR,"['Answer: t1', 'Answer: t2']"
+010-11,13,*PAR,['Answer: t1']
+010-11,14,*PAR,"['Answer: t2', 'Answer: t5', 'Answer: t6']"
+010-11,15,*PAR,['Answer: t4']
+010-11,16,*PAR,['Request:Clarification']
+010-11,17,*INV,['Acknowledgement']
+015-1,0,*PAR,['Acknowledgement']
+015-1,1,*PAR,"['Answer: t5', 'Answer: t8']"
+015-1,2,*PAR,['Answer: t8']
+015-1,3,*PAR,['Answer: t8']
+015-1,4,*PAR,"['Answer: t5', 'Answer: t6']"
+015-1,5,*PAR,['Answer: t6']
+015-1,6,*PAR,"['Answer: t2', 'Answer: t4']"
+015-1,7,*PAR,['Stalling']
+015-1,8,*PAR,['Answer: t1']
+015-1,9,*PAR,['Answer: t1']
+015-1,10,*PAR,['Answer: t1']
+015-1,11,*PAR,['Other']
+015-1,12,*PAR,['Stalling']
+015-1,13,*PAR,['Answer: t3']
+015-1,14,*PAR,"['Answer: t2', 'Answer: t4']"
+015-1,15,*PAR,['Answer: t4']
+015-1,16,*PAR,"['Answer: t6', 'Answer: t5']"
+015-1,17,*PAR,['Other']
+015-1,18,*PAR,['Answer: t2']
+015-1,19,*PAR,"['Answer:t2', 'Answer:t5', 'Answer:t8']"
+015-1,20,*PAR,['Request:Clarification']
+015-1,21,*INV,['Acknowledgement']
+015-2,0,*INV,['Instruction']
+015-2,1,*PAR,['Answer: t1']
+015-2,2,*PAR,['Request:Clarification']
+015-2,3,*PAR,['Stalling']
+015-2,4,*INV,['Instruction']
+015-2,5,*INV,['Request:Clarification']
+015-2,6,*PAR,['Answer: t1']
+015-2,7,*PAR,['Answer: t1']
+015-2,8,*INV,['Answer: t1']
+015-2,9,*PAR,['Request:Clarification']
+015-2,10,*PAR,['Request:Clarification']
+015-2,11,*INV,['Answer:General']
+015-2,12,*PAR,['Request:Clarification']
+015-2,13,*INV,['Acknowledgement']
+015-2,14,*PAR,['Answer: t1']
+015-2,15,*PAR,['Request:Clarification']
+015-2,16,*PAR,['Request:Clarification']
+015-2,17,*INV,['Instruction']
+015-2,18,*PAR,['Acknowledgement']
+015-2,19,*PAR,"['Answer: t5', 'Answer: t6']"
+015-2,20,*PAR,"['Answer:t5', 'Answer:t6']"
+015-2,21,*PAR,['Answer: t8']
+015-2,22,*PAR,['Answer: t8']
+015-2,23,*PAR,"['Answer:t2', 'Answer:t4', 'Answer:t6']"
+015-2,24,*PAR,['Answer: t2']
+015-2,25,*PAR,['Answer: t2']
+015-2,26,*INV,['Question:General']
+015-2,27,*PAR,['Answer:General']
+015-2,28,*PAR,['Answer:General']
+015-2,29,*PAR,"['Answer:t2', 'Answer:t3']"
+015-2,30,*PAR,['Answer: t2']
+015-2,31,*PAR,['Answer: t5']
+015-2,32,*PAR,"['Answer:t6', 'Answer:t7']"
+015-2,33,*PAR,['Request:Clarification']
+015-2,34,*INV,['Answer: General']
+002-1,0,*INV,['Question:General']
+002-1,1,*PAR,['Answer: t4']
+002-1,2,*PAR,['Answer: t8']
+002-1,3,*PAR,"['Answer: t5', 'Answer: t6']"
+002-1,4,*PAR,['Answer: t6']
+002-1,5,*PAR,['Answer: t2']
+002-1,6,*PAR,['Answer: t1']
+002-1,7,*PAR,['Answer: t2']
+002-1,8,*PAR,['Answer: t4']
+002-1,9,*PAR,['Answer: t6']
+002-1,10,*PAR,['Answer: t6']
+002-1,11,*PAR,"['Answer: t5', 'Answer: t8']"
+002-1,12,*PAR,['Answer: t1']
+002-1,13,*PAR,['Answer: t1']
+002-1,14,*INV,['Acknowledgement']
+002-1,15,*PAR,['Answer: t5']
+002-1,16,*INV,['Request:Clarification']
+002-1,17,*INV,['Acknowledgement']
+002-1,18,*PAR,"['Answer: t2', 'Answer: t5', 'Answer: t6']"
+002-1,19,*INV,['Request:Clarification']
+006-2,0,*PAR,['Stalling']
+006-2,1,*INV,['Acknowledgement']
+006-2,2,*PAR,"['Answer: t6', 'Answer: t7']"
+006-2,3,*PAR,"['Answer:t5', 'Answer:t8']"
+006-2,4,*PAR,"['Answer: t8', 'Answer: t5']"
+006-2,5,*PAR,['Answer: t6']
+006-2,6,*PAR,['Answer: t6']
+006-2,7,*PAR,['Answer: t2']
+006-2,8,*PAR,['Answer: t4']
+006-2,9,*PAR,['Answer: t1']
+006-2,10,*PAR,['Answer: t2']
+006-2,11,*PAR,['Answer: t4']
+006-2,12,*PAR,['Answer: t4']
+006-2,13,*PAR,['Answer: t1']
+006-2,14,*PAR,['Answer: t3']
+006-2,15,*INV,['Acknowledgement']
+005-2,0,*INV,['Instruction']
+005-2,1,*INV,['Instruction']
+005-2,2,*PAR,['Answer: t8']
+005-2,3,*INV,['Acknowledgement']
+005-2,4,*INV,['Request:Clarification']
+005-2,5,*PAR,"['Answer: t2', 'Answer: t4']"
+005-2,6,*INV,['Acknowledgement']
+005-2,7,*PAR,['Answer:General']
+005-2,8,*INV,['Request:Clarification']
+005-2,9,*PAR,['Answer: No']
+005-2,10,*INV,['Acknowledgement']
+005-2,11,*PAR,['Acknowledgement']
+005-2,12,*INV,['Apology']
+005-2,13,*PAR,['Answer: t4']
+005-2,14,*INV,['Acknowledgement']
+005-2,15,*INV,['Request:Clarification']
+005-2,16,*PAR,['Answer: No']
+005-2,17,*INV,['Acknowledgement']
+005-2,18,*INV,['Acknowledgement']
+013-2,0,*INV,['Instruction']
+013-2,1,*PAR,"['Answer: t5', 'Answer: t6']"
+013-2,2,*PAR,"['Answer: t5', 'Answer: t8']"
+013-2,3,*PAR,['Answer: t6']
+013-2,4,*PAR,['Answer: t2']
+013-2,5,*PAR,"['Answer: t3', 'Answer: t4']"
+013-2,6,*PAR,['Answer: t4']
+013-2,7,*PAR,['Stalling']
+013-2,8,*PAR,['Answer: t3']
+013-2,9,*PAR,['Answer: t1']
+013-2,10,*PAR,['Answer: t1']
+013-2,11,*PAR,['Answer: t6']
+013-2,12,*PAR,['Answer: t6']
+013-2,13,*PAR,['Answer:General']
+013-2,14,*INV,['Acknowledgement']
+013-3,0,*PAR,['Other']
+013-3,1,*INV,['Instruction']
+013-3,2,*PAR,"['Answer: t5', 'Answer: t6']"
+013-3,3,*PAR,['Answer: t6']
+013-3,4,*PAR,"['Answer: t8', 'Answer: t5']"
+013-3,5,*PAR,['Answer: t2']
+013-3,6,*PAR,"['Answer: t3', 'Answer: t4']"
+013-3,7,*PAR,"['Answer: t3', 'Answer: t4']"
+013-3,8,*PAR,['Stalling']
+013-3,9,*PAR,['Answer: t4']
+013-3,10,*PAR,['Answer: t6']
+013-3,11,*PAR,['Answer: t6']
+013-3,12,*PAR,['Answer: t6']
+013-3,13,*PAR,['Answer: t6']
+013-3,14,*PAR,['Other']
+013-3,15,*INV,['Acknowledgement']
+006-3,0,*INV,['Instruction']
+006-3,1,*INV,['Instruction']
+006-3,2,*INV,['Instruction']
+006-3,3,*PAR,"['Answer: t2', 'Answer: t5', 'Answer: t7', 'Answer: t6']"
+006-3,4,*PAR,['Answer: t6']
+006-3,5,*PAR,"['Answer: t5', 'Answer: t8']"
+006-3,6,*PAR,"['Answer: t8', 'Answer: t5']"
+006-3,7,*PAR,['Answer: t2']
+006-3,8,*PAR,"['Answer: t2', 'Answer: t1']"
+006-3,9,*PAR,['Answer: t4']
+006-3,10,*PAR,['Answer: t2']
+006-3,11,*PAR,['Answer: t3']
+006-3,12,*PAR,"['Answer: t2', 'Answer: t1']"
+006-3,13,*INV,['Acknowledgement']
+007-1,0,*INV,['Instruction']
+007-1,1,*PAR,['Other']
+007-1,2,*INV,['Acknowledgement']
+007-1,3,*PAR,['Question:General']
+007-1,4,*INV,['Answer:General']
+007-1,5,*PAR,['Acknowledgement']
+007-1,6,*PAR,"['Answer: t5', 'Answer: t6', 'Answer: t7']"
+007-1,7,*PAR,"['Answer: t5', 'Answer: t8']"
+007-1,8,*PAR,"['Answer:t3', 'Answer:t5']"
+007-1,9,*PAR,"['Answer: t2', 'Answer: t4']"
+007-1,10,*PAR,['Answer: t4']
+007-1,11,*PAR,['Answer: t1']
+007-1,12,*PAR,['Answer: t3']
+007-1,13,*PAR,['Answer: t1']
+007-1,14,*PAR,['Answer: t1']
+007-1,15,*PAR,['Answer:General']
+007-1,16,*INV,['Acknowledgement']
+006-4,0,*INV,['Instruction']
+006-4,1,*INV,['Instruction']
+006-4,2,*PAR,"['Answer: t2', 'Answer: t4']"
+006-4,3,*PAR,['Answer: t1']
+006-4,4,*PAR,['Answer: t1']
+006-4,5,*PAR,['Answer: t1']
+006-4,6,*PAR,['Answer: t1']
+006-4,7,*PAR,['Answer: t3']
+006-4,8,*PAR,['Answer: t4']
+006-4,9,*PAR,"['Answer: t4', 'Answer: t3']"
+006-4,10,*PAR,"['Answer: t5', 'Answer: t6']"
+006-4,11,*PAR,['Answer: t8']
+006-4,12,*PAR,"['Answer: t5', 'Answer: t6']"
+006-4,13,*PAR,"['Answer: t5', 'Answer: t6']"
+006-4,14,*PAR,"['Answer: t5', 'Answer: t6']"
+006-4,15,*PAR,['Answer:General']
+010-3,0,*INV,['Instruction']
+010-3,1,*INV,['Instruction']
+010-3,2,*PAR,"['Answer: t8', 'Answer: t5']"
+010-3,3,*PAR,"['Answer: t5', 'Answer: t6']"
+010-3,4,*PAR,"['Answer: t2', 'Answer: t4']"
+010-3,5,*PAR,['Answer: t6']
+010-3,6,*PAR,['Answer: t2']
+010-3,7,*PAR,['Request:Clarification']
+010-3,8,*INV,['Answer:Yes']
+010-3,9,*PAR,['Answer: t2']
+010-3,10,*INV,['Acknowledgement']
+007-3,0,*INV,['Instruction']
+007-3,1,*PAR,['Answer: t6']
+007-3,2,*PAR,['Answer: t8']
+007-3,3,*PAR,"['Answer:t2', 'Answer:t3', 'Answer:t4']"
+007-3,4,*PAR,['Answer: t2']
+007-3,5,*PAR,['Answer:General']
+007-3,6,*PAR,['Answer: t4']
+007-3,7,*PAR,['Answer:General']
+007-3,8,*INV,['Acknowledgement']
+007-3,9,*PAR,"['Answer: t4', 'Answer: t2']"
+007-3,10,*PAR,"['Answer: t4', 'Answer: t2']"
+007-3,11,*INV,['Acknowledgement']
+007-3,12,*INV,['Acknowledgement']
+013-0,0,*INV,['Instruction']
+013-0,1,*PAR,"['Answer: t5', 'Answer: t6']"
+013-0,2,*PAR,['Answer: t8']
+013-0,3,*PAR,['Answer: t6']
+013-0,4,*PAR,['Answer: t6']
+013-0,5,*PAR,['Answer: t2']
+013-0,6,*PAR,['Answer: t4']
+013-0,7,*PAR,['Answer: t3']
+013-0,8,*PAR,['Answer: t1']
+013-0,9,*PAR,"['Answer: t5', 'Answer: t6']"
+013-0,10,*PAR,"['Answer: t6', 'Answer: t5']"
+013-0,11,*PAR,['Answer: t2']
+013-0,12,*PAR,['Answer: t1']
+013-0,13,*PAR,['Answer: t1']
+013-0,14,*INV,['Acknowledgement']
+013-0,15,*INV,['Acknowledgement']
+013-4,0,*INV,['Instruction']
+013-4,1,*INV,['Instruction']
+013-4,3,*PAR,['Answer: t6']
+013-4,4,*PAR,['Answer: t6']
+013-4,5,*PAR,['Answer: t6']
+013-4,6,*PAR,"['Answer: t6', 'Answer: t5']"
+013-4,7,*PAR,['Answer: t5']
+013-4,8,*PAR,['Answer: t8']
+013-4,9,*PAR,['Answer: t8']
+013-4,10,*PAR,['Answer: t2']
+013-4,11,*PAR,['Answer: t4']
+013-4,12,*PAR,"['Answer: t4', 'Answer: t3']"
+013-4,13,*PAR,['Answer: t3']
+013-4,14,*PAR,['Answer: t1']
+013-4,15,*PAR,['Answer: t4']
+013-4,16,*PAR,"['Answer: t2', 'Answer: t5', 'Answer: t6']"
+013-4,17,*PAR,['Answer: t1']
+013-4,18,*PAR,['Request:Clarification']
+015-0,0,*INV,['Instruction']
+015-0,1,*PAR,['Stalling']
+015-0,2,*PAR,['Answer: t2']
+015-0,3,*PAR,['Answer: t4']
+015-0,4,*PAR,['Answer: t5']
+015-0,5,*PAR,['Answer: t6']
+015-0,6,*PAR,"['Answer: t6', 'Answer: t5']"
+015-0,7,*PAR,['Correction']
+015-0,8,*PAR,['Answer:General']
+015-0,9,*PAR,['Feedback:Reflexive']
+015-0,10,*PAR,['Feedback:Reflexive']
+015-0,11,*INV,['Instruction']
+015-0,12,*PAR,['Request:Clarification']
+015-0,13,*INV,['Answer:General']
+015-0,14,*PAR,['Answer: t4']
+015-0,15,*PAR,"['Answer: t3', 'Answer: t4']"
+015-0,16,*PAR,['Answer: t1']
+015-0,17,*PAR,['Answer: t1']
+015-0,18,*PAR,['Answer: t1']
+015-0,19,*PAR,['Answer: t1']
+015-0,20,*PAR,['Answer: t1']
+015-0,21,*PAR,['Answer: t1']
+015-0,22,*PAR,['Answer: t3']
+015-0,23,*INV,['Acknowledgement']
+015-0,24,*PAR,['Answer: t8']
+015-0,25,*PAR,"['Answer:t5', 'Answer:t7', 'Answer:t8']"
+015-0,26,*PAR,"['Answer: t5', 'Answer: t6']"
+015-0,27,*PAR,"['Answer:t4', 'Answer:t6', 'Answer:t8']"
+015-0,28,*PAR,['Question:General']
+015-0,29,*INV,['Acknowledgement']
+010-4,0,*INV,['Question:General']
+010-4,1,*PAR,"['Answer: t5', 'Answer: t6']"
+010-4,2,*PAR,['Stalling']
+010-4,3,*INV,['Question:General']
+010-4,4,*INV,['Instruction']
+010-4,5,*PAR,['Answer:General']
+010-4,6,*PAR,['Answer:General']
+010-4,7,*INV,['Acknowledgement']
+010-4,8,*INV,['Question:General']
+010-4,9,*PAR,"['Answer: t5', 'Answer: t6']"
+010-4,10,*INV,['Request:Clarification']
+010-4,11,*PAR,['Answer:General']
+010-4,12,*INV,['Question:General']
+010-4,13,*PAR,['Answer: t2']
+010-4,14,*INV,['Request:Clarification']
+010-4,15,*PAR,['Stalling']
+010-4,16,*PAR,['Stalling']
+010-4,17,*PAR,['Stalling']
+010-4,18,*INV,['Acknowledgement']
+016-4,0,*INV,['Instruction']
+016-4,1,*INV,['Instruction']
+016-4,2,*PAR,"['Answer: t5', 'Answer: t6']"
+016-4,3,*PAR,['Answer: t8']
+016-4,4,*PAR,['Answer: t4']
+016-4,5,*PAR,['Answer: t2']
+016-4,6,*PAR,['Answer: t1']
+016-4,7,*PAR,['Answer: t3']
+016-4,8,*PAR,['Stalling']
+016-4,9,*PAR,['Question:Reflexive']
+016-4,10,*PAR,['Answer: t1']
+016-4,11,*PAR,['Answer: t1']
+016-4,12,*PAR,['Answer: t1']
+016-4,13,*PAR,['Answer: t4']
+016-4,14,*PAR,['Stalling']
+021-0,0,*PAR,['Stalling']
+021-0,1,*PAR,['Answer: t6']
+021-0,2,*PAR,"['Answer: t6', 'Answer: t5']"
+021-0,3,*PAR,['Answer: t8']
+021-0,4,*PAR,"['Answer: t6', 'Answer: t5']"
+021-0,5,*PAR,"['Answer: t2', 'Answer: t4']"
+021-0,6,*PAR,"['Answer: t2', 'Answer: t1']"
+021-0,7,*PAR,['Answer: t3']
+021-0,8,*PAR,['Request:Clarification']
+021-0,9,*PAR,['Request:Clarification']
+021-0,10,*INV,['Question:General']
+021-0,11,*PAR,['Request:Clarification']
+021-0,12,*INV,['Answer:General']
+021-0,13,*INV,['Question:General']
+021-0,14,*PAR,['Answer: No']
+021-0,15,*INV,['Acknowledgement']
+001-0,0,*INV,['Instruction']
+001-0,1,*PAR,['Acknowledgement']
+001-0,2,*INV,['Instruction']
+001-0,3,*PAR,['Acknowledgement']
+001-0,4,*PAR,"['Answer: t5', 'Answer: t6']"
+001-0,5,*PAR,"['Answer:t5', 'Answer:t7', 'Answer:t8']"
+001-0,6,*PAR,['Answer: t2']
+001-0,7,*PAR,['Answer: t4']
+001-0,8,*PAR,"['Answer: t3', 'Answer: t4']"
+001-0,9,*PAR,['Answer: t1']
+001-0,10,*PAR,['Answer: t1']
+001-0,11,*PAR,"['Answer: t3', 'Answer: t4']"
+001-0,12,*INV,['Farewell']
+001-2,0,*INV,['Instruction']
+001-2,1,*INV,['Instruction']
+001-2,2,*PAR,['Acknowledgement']
+001-2,3,*INV,['Request:Clarification']
+001-2,4,*PAR,"['Answer: t5', 'Answer: t6']"
+001-2,5,*PAR,"['Answer:t6', 'Answer:t7']"
+001-2,6,*PAR,['Answer: t5']
+001-2,7,*INV,['Acknowledgement']
+001-2,8,*PAR,"['Answer: t5', 'Answer: t6']"
+001-2,9,*PAR,['Answer: t8']
+001-2,10,*PAR,"['Answer:t3', Answer:t4']"
+001-2,11,*INV,['Question:General']
+001-2,12,*PAR,['Answer:General']
+001-2,13,*PAR,"['Answer:t2', 'Answer:t6', 'Answer:t7']"
+001-2,14,*PAR,['Stalling']
+001-2,15,*PAR,['Stalling']
+001-2,16,*PAR,['Answer: t2']
+001-2,17,*INV,['Acknowledgement']
+001-2,18,*PAR,['Answer: t4']
+001-2,19,*INV,['Acknowledgement']
+001-2,20,*INV,['Acknowledgement']
+003-0,0,*PAR,['Answer: t6']
+003-0,1,*PAR,"['Answer: t6', 'Answer: t5']"
+003-0,2,*PAR,"['Answer: t5', 'Answer: t8']"
+003-0,3,*PAR,['Answer: t6']
+003-0,4,*PAR,['Answer:General']
+003-0,5,*PAR,"['Answer: t2', 'Answer: t4']"
+003-0,6,*PAR,['Stalling']
+003-0,7,*PAR,['Stalling']
+003-0,8,*PAR,['Answer: t2']
+003-0,9,*PAR,['Stalling']
+003-0,10,*INV,['Acknowledgement']
+003-0,11,*PAR,['Stalling']
+003-0,12,*PAR,['Answer: t1']
+003-0,13,*PAR,['Answer: t1']
+003-0,14,*PAR,['Answer: t1']
+003-0,15,*PAR,['Answer: t1']
+003-0,16,*INV,['Acknowledgement']
+003-0,17,*PAR,['Answer: t1']
+003-0,18,*PAR,['Answer: t1']
+003-0,19,*PAR,['Answer: t1']
+003-0,20,*PAR,['Answer: t4']
+003-0,21,*PAR,['Stalling']
+003-0,22,*PAR,['Answer: t3']
+003-0,23,*PAR,['Stalling']
+003-0,24,*INV,['Acknowledgement']
+003-0,25,*PAR,['Stalling']
+003-0,26,*INV,['Acknowledgement']
+003-0,27,*INV,['Farewell']
+024-2,0,*INV,['Instruction']
+024-2,1,*PAR,['Acknowledgement']
+024-2,2,*PAR,"['Answer: t5', 'Answer: t6']"
+024-2,3,*PAR,['Answer: t8']
+024-2,4,*PAR,"['Answer: t5', 'Answer: t6']"
+024-2,5,*PAR,['Answer: t6']
+024-2,6,*PAR,['Answer: t6']
+024-2,7,*PAR,['Answer:General']
+024-2,8,*PAR,['Answer: t6']
+024-2,9,*PAR,['Stalling']
+024-2,10,*PAR,"['Answer: t2', 'Answer: t4']"
+024-2,11,*PAR,['Answer:General']
+024-2,12,*INV,['Acknowledgement']
+024-2,13,*PAR,['Acknowledgement']
+252-1,0,*INV,['Instruction']
+252-1,1,*PAR,['Request:Clarification']
+252-1,2,*INV,['Answer:Yes']
+252-1,3,*PAR,['Answer: t6']
+252-1,4,*PAR,['Answer: t8']
+252-1,5,*PAR,"['Answer: t5', 'Answer: t8']"
+252-1,6,*PAR,"['Answer: t6', 'Answer: t5']"
+252-1,7,*PAR,['Answer: t2']
+252-1,8,*PAR,"['Answer: t4', 'Answer: t3']"
+252-1,9,*PAR,['Answer: t3']
+252-1,10,*PAR,['Answer: t1']
+252-1,11,*PAR,['Answer: t1']
+252-1,12,*INV,['Acknowledgement']
+252-1,13,*INV,['Acknowledgement']
